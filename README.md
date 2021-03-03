@@ -1,3 +1,3 @@
 
 
-Checkout this project at :-  [https://quazzu-cloud-computing.netlify.app/](https://quazzu-cloud-computing.netlify.app/)
+Checkout this web page at :-  [https://quazzu-cloud-computing.netlify.app/](https://quazzu-cloud-computing.netlify.app/)
